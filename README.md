@@ -1,13 +1,8 @@
 <!DOCTYPE html>
 <html lang="zh-TW">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hi I am iris huang!</title>
-</head>
 <body>
     <header>
-        <h1>你好，我是 [你的名字]</h1>
+        <h1>Hi 👋, I'm YEN-HSIN!</h1>
         <p>這是我的個人主頁，展示我的專案與經歷。</p>
     </header>
     <section>
