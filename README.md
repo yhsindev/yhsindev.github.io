@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yhsindev@gmail.com**
 
-- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1otJhm-O65wlp6rKPUBHe8sYjgfCIod7d/view?usp=drive_link)]([Resume](https://drive.google.com/file/d/1otJhm-O65wlp6rKPUBHe8sYjgfCIod7d/view?usp=drive_link))
+- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1otJhm-O65wlp6rKPUBHe8sYjgfCIod7d/view?usp=drive_link)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
