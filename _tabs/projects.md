@@ -6,11 +6,11 @@ order: 4
 
 精選的個人專案，持續更新中。
 
-## kernel-hash — Linux 核心雜湊函式取捨分析
+## kernel-hash — Linux kernel 雜湊函式取捨分析
 
-比較 `jhash2()`、`hsiphash()`、`siphash()` 三種雜湊函式用於 Linux 核心雜湊表的安全與效能取捨，以 Open vSwitch（OVS）kernel datapath flow table 為目標場景：
+比較 `jhash2()`、`hsiphash()`、`siphash()` 三種雜湊函式用於 Linux kernel 雜湊表的安全與效能取捨，以 Open vSwitch（OVS）kernel datapath flow table 為目標場景：
 
-- 自建核心雜湊函式微基準測試（microbenchmark）
+- 自建 kernel 雜湊函式 microbenchmark
 - OVS datapath 測試環境與整合成本量測
 - Hash-flooding 攻擊與碰撞、bucket 分布分析
 

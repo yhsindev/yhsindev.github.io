@@ -5,7 +5,7 @@ categories: [網站]
 tags: [jekyll, chirpy, github-pages]
 ---
 
-這是本站的第一篇文章——內容就是這個網站本身是怎麼架起來的。
+這是本站的第一篇文章，內容就是這個網站本身是怎麼架起來的。
 
 ## 為什麼要有自己的部落格
 
@@ -13,7 +13,7 @@ tags: [jekyll, chirpy, github-pages]
 
 - 寫給別人看，會逼自己把東西真正想清楚
 - 累積下來就是可以放在履歷上的個人網站
-- 找工作、遞名片時，有一個「這就是我」的網址
+- 找工作、遞名片時，能給出一個代表自己的網址
 
 ## 技術選擇：Jekyll + Chirpy + GitHub Pages
 
@@ -22,7 +22,7 @@ tags: [jekyll, chirpy, github-pages]
 最後選了 [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) 這個 Jekyll 佈景主題，理由：
 
 - 外觀好看，搜尋、深色模式、分類、標籤、歸檔、RSS 全部內建
-- 官方提供 [chirpy-starter](https://github.com/cotes2020/chirpy-starter) 範本，主題以 gem 形式引入——**升級主題只要改版本號，自己的客製不會被蓋掉**
+- 官方提供 [chirpy-starter](https://github.com/cotes2020/chirpy-starter) 範本，主題以 gem 形式引入，升級只要改版本號，自己的客製不會被蓋掉
 - 建置交給 GitHub Actions，本機不需要裝 Ruby 也能發文
 
 ## 架設步驟
@@ -44,7 +44,7 @@ git add . && git commit -m "post: my new post" && git push
 
 ## 客製的部分
 
-在預設的部落格功能之外，我加了一個「作品集」分頁（`_tabs/projects.md`），手動精選要展示的專案——只放有在維護、拿得出手的，其他舊 repo 不會出現在這裡。
+在預設的部落格功能之外，我加了一個「作品集」分頁（`_tabs/projects.md`），手動精選要展示的專案，只放有在維護、拿得出手的，其他舊 repo 不會出現在這裡。
 
 ## 之後想做的事
 
