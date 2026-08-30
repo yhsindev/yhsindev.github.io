@@ -33,3 +33,6 @@ Thumbs.db
 
 # Local-only guidebook (never published)
 GUIDEBOOK.md
+
+# Drafts stay local until moved to _posts/
+_drafts/
