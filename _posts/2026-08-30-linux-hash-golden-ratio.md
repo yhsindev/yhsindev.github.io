@@ -172,4 +172,4 @@ Linux 從 2016 年開始把一部分雜湊路徑換成帶密鑰的 SipHash，就
 
 ---
 
-*本文是我碩班 Linux 核心設計專題的副產品，完整的程式碼、實驗與報告在 [kernel-hash](https://github.com/yhsindev/kernel-hash)。*
+*本文是我碩班 Linux 核心設計課程專題，完整的程式碼、實驗與報告在 [kernel-hash](https://github.com/yhsindev/kernel-hash)。*
